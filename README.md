@@ -1,4 +1,11 @@
 <h1 data-importer="text" align="center">Hello World!👋</h1>
+<p>Software Engineer with a knack for building and delivering reliable, secure solutions that support business goals; focused on shipping real solutions that work.
+
+Hit me up for efficient, reliable, secure, and innovative software solutions.</p>
+<p align="center">
+  <a href="https://stanslaus-portfolio.vercel.app">Portfolio</a>
+</p>
+
 
 ###
 
