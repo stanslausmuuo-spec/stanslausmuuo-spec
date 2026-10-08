@@ -13,7 +13,7 @@ Hit me up for efficient, reliable, secure, and innovative software solutions.</p
   <a href="https://www.linkedin.com/in/stanslaus/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/users/1543229483778048020">
+  <a href="https://discord.com/users/1543229483778048020" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://wa.me/254741405165" target="_blank">
